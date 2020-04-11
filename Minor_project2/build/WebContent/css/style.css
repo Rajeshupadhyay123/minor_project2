@@ -1,0 +1,375 @@
+.myslider {
+  height:520px;
+  }
+
+  .myslider1 {
+	height:520px;
+	width:100%;
+  }
+  .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: black;
+    background-color: black;
+}
+ .navbar-default:hover .navbar-collapse:hover, .navbar-default:hover .navbar-form:hover {
+    
+	color:white;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: white;
+    background-color: black;
+}
+  .navbar {    
+    margin-bottom: 0px;
+ }
+
+ .navbar-header {
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+ }
+ .nav>li>a:hover{
+	 color:#fff !important;
+ }
+ .exp{
+    margin-top: 95px;
+    text-align: center;
+	font-size: 28px;
+	letter-spacing:12px;
+}
+ 
+ 
+ .exjg3  {
+ width: 102.3%;
+ }
+
+ .expP {
+	    margin-top: 30px;
+ }
+ 
+.expjagbtn  {
+  background-color: #a50008;  
+  color: white;
+  border-color: #a50008;
+  padding: 5px;
+      margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 50px;
+  }
+.expjagbtn:hover  {
+  background-color:black;  
+  color: white;
+  border-color: black;
+  padding: 5px;
+  }  
+.OurVclsH2{
+	background-color: white;
+	padding: 25px;
+    margin: 0px;
+    text-align: center;;
+	font-family: 'Noto Serif', serif;
+}
+ .OurVclsImg{
+	 width: 100%;     
+	 height:auto;
+	
+ }
+
+.OurVclsA {
+	color:#a50008;
+}
+.OurVclsA:hover {
+	color:black;
+	font-style: bold;
+    text-decoration:none;
+	}
+.fs1{
+	background-color:#a50008;
+	padding: 3px;
+    color:white;
+	margin:4px;
+	padding-right: 5px;
+    padding-left: 5px;
+}
+.fs1:hover {
+	background-color:black;
+}
+	
+.OurVclsUl {
+   margin-left: -42px;
+}
+.OurVclsH4  {
+color: #a50008;
+font-family: 'Play', sans-serif;
+    font-size: 24px;
+}
+.OurVclsCol {
+	padding:0px; 
+}
+
+.OurVclsImg:hover {
+    opacity: 0.7;
+}
+.Bgcolor {
+	padding-left:35px;
+    background-color: white;
+    padding-top: 1px;
+    padding-bottom: 1px;
+	height: 190px;
+}
+.bgcolor1{
+	padding-left:35px;
+    padding-top: 1px;
+    height: 190px;
+	padding-bottom: 1px;
+}
+.black {
+	background-color: black;
+	height:300;
+	padding-top: 10;
+
+}
+.head {
+	color: white;
+}
+.headLink {
+	color: white;
+}
+.headLink:hover {
+	color: gray;
+	text-decoration: none;
+}
+.booter0 {
+background-color:#000;
+height:50px; 
+border-bottom:1px solid gray;
+}
+.booter1 {
+background-color:#000;
+min-height:270px; 
+text-align:center;
+color:white;
+}
+.container-fluid {
+	padding:0!important;
+}
+.booterIcons {
+  font-size: 28px;
+  text-align:center;
+  color:white;
+  margin-bottom:25px; 
+ }
+ .twitter {
+  padding-top:0px; 
+  padding-bottom:0px; 
+  margin-top:0px;
+  margin-bottom:0px;
+  border-radius:0px;
+ }
+.twitter:hover { 
+	color:lightblue; 
+    background-color:white; 
+}
+.booterimg {
+	margin-top: 35px;
+}
+
+
+.Allvehicles {
+    padding-left: 32px;
+    background-color: black;
+    padding-top: 1px;
+    padding-bottom: 1px;
+	height: 190px;	
+    border-right:1px solid gray;
+	height:280px;
+	}
+.AllVclsH4  {
+color: white;
+font-family: 'Cinzel', serif;
+  font-size: 22px;
+    text-align: center;
+    letter-spacing: 5px;
+    margin-top: 28px;
+  }
+ .AllVclsImg{
+	 width: 100%;     
+	 height:auto;
+ }
+ .AllP {
+	     margin: 0 0 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: azure;
+ }
+.AllVclsA {
+	color:white;
+}
+
+	.AllVclsUl>a:hover{
+		color:gray !important;
+	text-decoration:none;
+	font-style: bold;
+    text-decoration:none !important;
+	}
+.Allfs1{
+	background-color:#9e1b32 !important;
+	padding: 3px;
+    color:white;
+	margin:4px;
+	padding-right: 5px;
+    padding-left: 5px;
+}
+.Allfs1:hover {
+	background-color:white;
+    text-decoration:none;
+	color:gray;
+}
+	
+.AllVclsUl {
+   margin-left: -42px;
+}
+
+.AllVclsCol {
+	padding:0px; 
+	background-color: black;
+}
+
+.AllVclsImg:hover {
+    opacity: 0.7;
+}
+.BuildImg {
+       width:100%;
+}
+
+.Build {
+	background-color:#dedede;
+}
+.BuildHead { 
+letter-spacing: 14px;
+color: black;
+text-align: center;
+text-transform: uppercase;
+font-family: Snell Roundhand, cursive ;
+margin-top: 32px;
+padding: 17px;
+}
+.BuildP {
+	text-align: center;
+	margin-bottom: 80px;
+}
+.Build12{
+    padding: 20;
+	background-color: white;
+	margin-bottom: 25px;
+}
+.BuildH4 {
+	color:#9e1b32;
+	font-size:14px;
+}
+.About {
+	background-color:white;
+    margin: 0 0 10px;
+    text-align: center;
+    padding: 38px;
+	margin-top: -40px;
+	margin-bottom: 0;
+}
+.About2 {
+	background-color: #dedede;
+    padding: 40px 0;
+	width:80%;
+	
+}
+.About12 {
+	height: 160;
+	padding: 20;
+	background-color: white;
+	margin-bottom: 25px;
+}
+.OwnerA {
+	color:#9e1b32;
+	text-decoration: underline;
+	font-size: 13;
+}
+.OwnerHead {
+	letter-spacing: 10px;
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Noto Serif', serif;
+    margin-top: 24px;
+    padding: 17px;
+	font-size:22px;
+	font-weight:700;
+}
+
+.ApprovedBttn {
+	background-color:#9e1b32;
+	color: white;
+	border-color:#9e1b32;
+    font-size:16;
+	width: 140px;
+	margin-bottom: 14px;
+	}
+.ApprovedBttn:hover {
+	background-color: black;
+	border-color:black;
+}
+.hero {
+	z-index:1;
+	width: 100%;
+}
+.heroH {
+    z-index: 1;
+    position: relative;
+    top: -311px;
+    height: 79px;
+    width: 410px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    opacity: 0.8;
+    padding-top: 25px;
+    letter-spacing: 5px;
+    font-size: 22;
+    font-family: 'Cinzel', serif;
+}
+
+.OfferHead {
+	letter-spacing: 10px;
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Noto Serif', serif;
+    margin-top: 24px;
+	margin-bottom: -10px;
+    padding: 17px;
+	font-size:22px;
+	font-weight:700;
+}
+.Offer12 {
+	height: 110px;
+    padding: 20px;
+    background-color: white;
+    margin-bottom: -8px;
+    font-size: 12;
+}
+@media only screen and (min-width: 320px) and (max-width: 800px;) {
+.black {
+    background-color: black;
+    height: 300;
+    padding-top: 10;
+    text-align: center !important;
+}
+}
+@media only screen and (max-width: 600px) {
+    .About2 {
+        width:100%;
+		margin-bottom:20px;
+    }
+}
+@media only screen and (max-width: 1417px){
+	
+	
+}

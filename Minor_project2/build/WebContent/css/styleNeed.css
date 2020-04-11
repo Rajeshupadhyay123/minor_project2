@@ -1,0 +1,353 @@
+.Head {
+text-align: center ;
+font-size:42px;
+font-family: 'Dancing Script', cursive
+}
+.Img1 {
+	width:100%;
+	height:-webkit-fill-available;
+
+    background-position: relative;
+	background-size: cover;
+background-image:url("img5.jpg");
+}
+.video {
+	text-align:center;
+	font-size: 25px;
+}
+.navStyle {
+z-index: 1;
+background-color: transparent;
+border-color: transparent;
+
+
+}	
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background:#000!important;
+  height:100px;
+  transition:2s;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+.spa1 {
+	font-size:24px;
+}
+
+.Home {
+	font-size:16px;
+
+	font-family: 'Bitter', serif;
+text-align:right;
+}
+.navbar-default .navbar-nav>li>a {
+    color: antiquewhite;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    color: #e43e58;
+}
+
+.navbar-default .navbar-brand {
+    color: antiquewhite;
+}
+.navbar-default:hover .navbar-brand:hover {
+    color: antiquewhite !important;
+}
+.Welcome>h2 {
+	text-align: center;
+	z-index:1;
+    color: #742A27;
+    position: relative;
+    top: -182px;
+    font-size: 62px;
+    font-weight: 600;
+    word-spacing: 22px;
+    font-family: 'Great Vibes', cursive;
+}
+
+.About{
+	top:-105px;
+	font-family: 'Playfair Display', serif;
+}
+.AboutH2 {
+	
+	
+}
+.AboutP {
+	font-size: 14.5px;
+    letter-spacing: 0.8px;
+}
+.AboutBttn {
+	border:1px solid black;
+	background-color: white;
+	padding: 10px;
+    width: 140px;                   
+	text-align:center;
+}
+.AboutBttn:hover {
+	background-color:#4E5859;
+	color: white;
+}
+.AboutImg{
+	width:100%;
+    height: 360px;
+	padding-top: 10px;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #000 !important;
+    color:white;
+	}
+.navbar-default .navbar-toggle {
+    background-color: #000 !important;
+}
+.navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent !important;
+	border-bottom:none !important;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.OurDiv {
+	text-align: center;
+	background-color: #E7E7E7;
+	font-family: 'Playfair Display', serif;
+    padding: 80px;
+}
+.OurP {
+	font-size: 14.5px;
+    letter-spacing: 1.4px;
+	
+}
+
+.OurBttn {
+	border:1px solid black;
+	background-color: #E7E7E7;
+	padding: 10px;
+    width: 140px;                   
+	text-align:center;
+}
+.OurBttn:hover {
+	background-color:#4E5859;
+	color: white;
+}
+.Crousel{
+	width:100%;
+}
+.BestRest {	
+	text-align:center;
+	color: #fff;
+	font-family: 'Dancing Script', cursive 
+ }
+.BestRest h2 h3 {
+	font-family: 'Dancing Script', cursive 
+}
+.BestRest p {
+	line-height:30px;
+	font-size: 14.5px;
+    letter-spacing: 1.4px;
+	font-family: 'Playfair Display', serif;
+ }
+
+.Background {
+	background-image:"url("best-city.jpg")";
+	
+}
+.city {
+	width:100%;
+	z-index:1;
+	height:auto;
+	
+}
+.Gallery  {
+    padding: 34px;
+    margin: 26px;
+	font-family: 'Playfair Display', serif;
+}
+
+.GalleryH {
+	text-align: center;
+	padding:35px;
+}
+.GalleryImg {	
+    width: 100%;
+    height: auto;
+} 
+
+@media only screen and (min-width:100px) and(max-width: 500px) {
+    .GalleryImg {
+        width:290px;
+    }
+}
+.modal-body {
+	width:auto;
+}
+.Menu {
+	background-color: #E7E7E7;
+    padding: 5px;
+    padding-left: 60px;
+    padding-right: 60px;
+    height: 690px;
+	font-family: 'Playfair Display', serif;
+	}
+
+.menuHead {
+	text-align:center;
+	padding:60px;
+}
+.menuPrice{
+	float:right;
+	color:#7d7b7b;
+	font-size: 15px;
+}
+.menu6 {
+	border-bottom:1px dashed gray;
+	font-size: 15px;
+    padding: 25px;
+	padding-right: 35px;
+}
+.menu61 {
+	font-size: 15px;
+    padding: 25px;
+	padding-right: 35px;
+}
+
+.Reservation {
+	font-family: 'Playfair Display', serif;
+	height:400px;
+    background-image: url("../reserved5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -385px;
+ }
+.Reservation p {
+	text-align:center;
+}
+.ResHead {
+	text-align:center;
+	color: white;
+	  padding: 24px;
+    padding-bottom: 84px;
+}
+.form{
+	padding-left:0px;
+}
+.form select {
+	font-size:18px ;
+	width: 200px;
+    padding: 5px;
+	background-color: #f1e8e8;
+}
+.form input {
+	text-align:center;
+}
+.ResBookTable {
+	padding-top: 68px;
+}
+
+.ResBttn {
+	border:1px solid #bdafaf;
+	background-color: #E7E7E7;
+    padding: 12px;
+    font-size: 16px;
+    width: 160px;                  
+	text-align:center;
+}
+.ResBttn:hover {
+	background-color:#4E5859;
+	color: white;
+}
+.Chefs {
+	height:auto;
+	font-family: 'Playfair Display', serif;
+	}
+.Chefs h3 {
+   text-align:center;
+   
+}
+.Chefs p {
+   text-align:center;
+   
+}
+.ChefHead{
+	text-align: center;
+    padding: 40px;
+}
+.ChefImg {
+
+	border-radius: 150px;
+    height: 220px;
+    width: auto;
+}
+.ChefsIcons {
+	font-size:28px;
+}
+
+
+
+
+
+
+
+.FooterDiv {
+	text-align:center;
+	background-color: black;
+	color: white;
+	font-size: ;
+	height: 210px;
+	width:100%;
+	padding:40px;
+}
+.FooterDiv div  {
+	font-size:26px;
+	padding-bottom:20px;
+	border-bottom:1px solid silver;
+	}
+.FooterDiv p  {
+	font-size:14px;
+
+}
+
+
+
+
+@media only screen and (max-width: 992px) {
+    .Welcome>h2 {
+    
+    top: -191px;
+    font-size: 40px;
+    
+}
+
+.Menu {
+   
+     height: auto;
+    
+}
+.Chef4 {
+	padding-bottom:25px;
+}
+.ResBookTable {
+	padding-top: 0px;
+}
+}
+@media only screen and (max-width: 468px) {
+.About {
+    top: -182px;
+    
+}		
+}
+@media only screen and (max-width: 1125px) {
+.Reservation {
+    background-position-y: bottom;
+}
+}
+@media only screen and (min-width: 668px) and (max-width: 822px) {
+.Img1 {
+    top: -122px;
+}		
+}
